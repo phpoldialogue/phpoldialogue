@@ -1,8 +1,10 @@
-### 💬 Thank you for visiting this profile, you can join us at [PH Political Dialogue](https://discord.gg/86MeqUmGnQ) Discord server.
+### 💬 Thank you for visiting this profile!
 
-### :scroll: The Discord server is a neutral ground for civil discussion about Philippine politics, social issues and current events.
+Join us at [PH Political Dialogue](https://discord.gg/86MeqUmGnQ) Discord server.
 
-### :scroll: This repository and the tiny web applications hosted with github are made with privacy in mind. No personally identifiable information is collected or stored by the applications.
+:scroll: The Discord server is a neutral ground for civil discussion about Philippine politics, social issues and current events.
+
+:scroll: This repository and the tiny web applications hosted with github are made with privacy in mind. No personally identifiable information is collected or stored by the applications.
 
 <!--
 **phpoldialogue/phpoldialogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
