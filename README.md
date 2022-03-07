@@ -6,6 +6,8 @@ Join us at [PH Political Dialogue](https://discord.gg/86MeqUmGnQ) Discord server
 
 :scroll: This repository and the tiny web applications hosted with github are made with privacy in mind. No personally identifiable information is collected or stored by the applications.
 
+⚡ We forked a couple of political quizzes we found online with permissive license so we can add a small branding. We plan to partly include the generated result image as part of the our Discord membership screening process.
+
 <!--
 **phpoldialogue/phpoldialogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
